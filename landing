@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BreedApp - Empoderando a Criadores</title>
+    <!-- Add your CSS stylesheets and scripts here -->
+</head>
+<body>
+    <!-- Navigation Bar (if needed) -->
+    <!-- <nav>
+        <ul>
+            <li><a href="#">Inicio</a></li>
+            <li><a href="#">Acerca de</a></li>
+            <li><a href="#">Contáctanos</a></li>
+        </ul>
+    </nav> -->
+
+    <!-- Header Section -->
+    <header>
+        <img src="your-logo.png" alt="BreedApp Logo">
+        <h1>Bienvenido a BreedApp</h1>
+        <p>Empoderando a Criadores a través de la Innovación</p>
+    </header>
+
+    <!-- About Section -->
+    <section>
+        <h2>Acerca de Nosotros</h2>
+        <p>En BreedApp, estamos dedicados a revolucionar la industria de la cría con aplicaciones móviles intuitivas. Nuestra visión es un futuro en el cual los criadores de todos los tamaños tengan acceso a herramientas poderosas que simplifiquen las operaciones de cría, mejoren la toma de decisiones basada en datos y, en última instancia, empoderen a los criadores para alcanzar sus objetivos.</p>
+    </section>
+
+    <!-- Mission Section -->
+    <section>
+        <h2>Nuestra Misión</h2>
+        <p>Revolucionando la Cría con Aplicaciones Móviles Intuitivas. Nuestra misión es hacer que las herramientas avanzadas de cría sean accesibles para todos los criadores, sin importar su experiencia. Creemos en la creación de una comunidad global en la cual los criadores puedan compartir conocimientos y mejores prácticas. Juntos, podemos dar forma a un futuro más brillante para la agricultura.</p>
+    </section>
+
+    <!-- Benefits Section -->
+    <section>
+        <h2>Lo Que Ofrecemos</h2>
+        <ul>
+            <li>Operaciones de Cría Simplificadas</li>
+            <li>Toma de Decisiones Basada en Datos</li>
+            <li>Accesibilidad y Facilidad de Uso</li>
+        </ul>
+    </section>
+
+    <!-- Join Us Section -->
+    <section>
+        <h2>Únete a la Revolución</h2>
+        <p>¿Listo para revolucionar tus operaciones de cría? Únete a nosotros en BreedApp y lleva tu cría al siguiente nivel.</p>
+        <button><a href="#">Registro</a></button>
+    </section>
+
+    <!-- Stay Informed Section -->
+    <section>
+        <h2>Mantente Informado</h2>
+        <p>Regístrate en nuestro boletín para recibir las últimas actualizaciones sobre el desarrollo de nuestra aplicación y las novedades de la industria.</p>
+        <!-- Add your newsletter signup form here -->
+    </section>
+
+    <!-- Contact Us Section -->
+    <section>
+        <h2>Contáctanos</h2>
+        <p>¿Tienes preguntas o necesitas ayuda? Ponte en contacto con nuestro equipo en [Dirección de Correo Electrónico].</p>
+    </section>
+
+    <!-- Social Media Section -->
+    <section>
+        <h2>Síguenos</h2>
+        <p>Mantente conectado y síguenos en las redes sociales para obtener noticias y actualizaciones.</p>
+        <!-- Add your social media icons and links here -->
+    </section>
+
+    <!-- Footer Section (if needed) -->
+    <!-- <footer>
+        <p>Derechos de autor © 2023 BreedApp. Todos los derechos reservados.</p>
+    </footer> -->
+
+    <!-- Add your CSS stylesheets and scripts here -->
+
+</body>
+</html>
